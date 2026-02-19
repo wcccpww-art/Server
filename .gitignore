@@ -10,10 +10,13 @@ __pycache__/
 
 # Project specific
 archive/data.sqlite
+archive/temp_import/
 archive/temp_extract/
 downloads/
 .venv/
 archive/site/
+archive/bot_session.session
+archive/session.session
 
 # Distribution / packaging
 .Python
